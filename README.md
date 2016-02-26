@@ -17,4 +17,4 @@ I completely understand how front end structure works now and I can explain it t
 
 *Toughest problem you encountered*:
 
-Making my js running on page, because I messed up my js source closing tag, but it helped me to understand how it works better
+No problems!
